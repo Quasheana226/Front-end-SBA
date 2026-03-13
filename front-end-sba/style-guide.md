@@ -11,24 +11,39 @@ The designs were created to the following widths:
 
 ## Colors
 
-- Purple 100: hsl(254, 88%, 90%)
-- Purple 500: hsl(256, 67%, 59%)
+### Primary
 
-- Yellow 100: hsl(31, 66%, 93%)
-- Yellow 500: hsl(39, 100%, 71%)
+#### Text
 
-- White: hsl(0, 0%, 100%)
-- Black: hsl(0, 0%, 7%)
+- Purple 300 (sub-heading at the top of the app UI): hsl(276, 100%, 81%)
+- Purple 600 (chat on the left): hsl(276, 55%, 52%)
+- Gray 500 (chat on the right, paragraph): hsl(270, 7%, 64%)
+- Gray 300 (placeholder text): hsl(206, 6%, 79%)
+- Purple 950 (main heading): hsl(271, 36%, 24%)
+
+#### Gradients
+
+These two colors are the vibrant background colors you see throughout the design and are applied as a linear gradient:
+
+- Pink 500: hsl(293, 100%, 63%)
+- Purple 500: hsl(264, 100%, 61%)
+
+### Secondary
+
+- White: hsl(0, 100%, 100%)
+- Gray 100 (app background): hsl(270, 20%, 96%)
+- Purple 950 (submit button background): hsl(271, 36%, 24%)
+- Pink 400 (radio button outline): hsl(289, 100%, 72%)
 
 ## Typography
 
 ### Body Copy
 
-- Font size (paragraph): 18px
+- Font size: 16px
 
 ### Font
 
-- Family: [DM Sans](https://fonts.google.com/specimen/DM+Sans)
-- Weights: 400, 500
+- Family: [Rubik](https://fonts.google.com/specimen/Rubik)
+- Weights: 400, 500, 700
 
-> 💎 [Upgrade to Pro](https://www.frontendmentor.io/pro?ref=style-guide) for design file access to see all design details and get hands-on experience using a professional workflow with tools like Figma. The design file for this challenge also includes a design system and tablet layout to help you build a more accurate solution faster.
+> 💎 [Upgrade to Pro](https://www.frontendmentor.io/pro?ref=style-guide) for design file access to see all design details and get hands-on experience using a professional workflow with tools like Figma.
