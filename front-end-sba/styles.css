@@ -1,6 +1,6 @@
 :root {
     --primary-green: hsl(171, 66%, 44%);
-  --primary-blue: hsl(233, 100%, 69%);
+  --primary-blue: hsl(220, 97%, 54%);
   --neutral-gray-700: hsl(210, 10%, 33%);
   --neutral-gray-500: hsl(201, 11%, 66%);
 
@@ -15,4 +15,13 @@ body {
 
 h1 h2 h3 h4 h5 h6 {
     color: var(--neutral-gray-700);
+}
+
+
+.btn-primary {
+    background-color: var(--primary-green);
+  
+}
+.btn_secondary {
+    background-color: var(--primary-blue);
 }
