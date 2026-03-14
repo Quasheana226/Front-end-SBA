@@ -4,10 +4,25 @@ margin: 0;
 padding: 0;
 }
 
-:root{
-  500: hsl(171, 66%, 44%
- -- Blue 100: hsl(233, 100%, 69%)
 
- -- Gray 700: hsl(210, 10%, 33%)
- -- Gray 500: hsl(201, 11%, 66%)
+:root {
+    -- green 500: hsl(171, 66%, 44%);
+    -- blue 100: hsl(233, 100%, 69%);
+
+
+    -- gray 700: hsl(210, 10%, 33%);
+    -- gray 500: hsl(201, 11%, 66%);
+
+    - Family: [Bai Jamjuree](https://fonts.google.com/specimen/Bai+Jamjuree)
+      fs-body: 18px;
+        fs-heading: 32px;
+        fw-regular: 400;
+        fw-bold: 700;
+}
+
+
+body {
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-size: var(fs-body);
+    color: var(--gray-500);
 }
